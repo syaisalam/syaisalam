@@ -6,8 +6,8 @@
   - [FIM (File Integrity Monitoring)](https://github.com/syaisalam/File-integrity-monitoring)
 
 - <b>Python</b>
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Port Scanner](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Keylogger with Email Capability]
+  - [Port Scanner]
     
 <h2>🥇 Certifications:</h2>
 
