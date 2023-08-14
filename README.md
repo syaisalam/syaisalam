@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b>
-  - [FIM (File Integrity Monitoring)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [FIM (File Integrity Monitoring)](https://github.com/syaisalam/File-integrity-monitoring)
 
 - <b>Python</b>
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Sentinel-Lab)
