@@ -12,6 +12,9 @@
 
 - <b>Vulnerability Management Homelab</b>
   - Nessus Scan (ongoing)
+
+- <b>Penetration Testing Report</b>
+  - [Web Vulnerability and Penetration Assessment for JuggyShop] (ongoing)
     
 <h2>🥇 Certifications:</h2>
 
