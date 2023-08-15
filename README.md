@@ -2,12 +2,16 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>PowerShell</b>
-  - [FIM (File Integrity Monitoring)](https://github.com/syaisalam/File-integrity-monitoring)
-
 - <b>Python</b>
   - [Keylogger with Email Capability](https://github.com/syaisalam/Keylogger_withemail)
   - [Port Scanner](https://github.com/syaisalam/Portscanner)
+  - [Password Manager](https://github.com/syaisalam/Portscanner)
+  
+- <b>PowerShell</b>
+  - [FIM (File Integrity Monitoring)](https://github.com/syaisalam/File-integrity-monitoring)
+
+- <b>Vulnerability Management Homelab</b>
+  - Nessus Scan (ongoing)
     
 <h2>🥇 Certifications:</h2>
 
