@@ -14,7 +14,7 @@
   - Nessus Scan (ongoing)
 
 - <b>Penetration Testing</b>
-  - [Web Vulnerability and Penetration Assessment for JuggyShop] (https://github.com/syaisalam/Pentest-Juggyshop)
+  - [Web Vulnerability and Penetration Assessment for JuggyShop](https://github.com/syaisalam/Pentest-Juggyshop)
     
 <h2>🥇 Certifications:</h2>
 
