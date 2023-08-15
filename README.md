@@ -7,7 +7,7 @@
 
 - <b>Python</b>
   - [Keylogger with Email Capability](https://github.com/syaisalam/Keylogger_withemail)
-  - [Port Scanner]
+  - [Port Scanner](https://github.com/syaisalam/Portscanner)
     
 <h2>🥇 Certifications:</h2>
 
